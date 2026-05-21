@@ -1,3 +1,3 @@
 # GA-Tech-ISYE6414-Project
-class project
+## class project
 Abebe Beso Bela
